@@ -98,6 +98,7 @@
 
 ## Часть вторая. Установка плагина и ввод настроек.
 Скачивайте zoommax_autodonate.jar и кладите его в папку plugins Вашего сервера.
+[Скачать плагин](https://github.com/ZooMMaX/ZooMMaX-Autodonate-plugin/releases "Скачать плагин")
 Запустите терминал (если у Вас Linux) или PowerShell (если у Вас Windows).
 Перейдите в терминале/PowerShell в папку plugins Вашего сервера
 Выполните команду
