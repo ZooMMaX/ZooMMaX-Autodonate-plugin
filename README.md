@@ -47,3 +47,6 @@ ZooMMaX-Autodonate-plugin призван решить многие недоче�
 Ссылка на инструкцию по установке/настройке плагина -> https://github.com/ZooMMaX/ZooMMaX-Autodonate-plugin/blob/main/settings.md
 
 Сcылка на инструкцию по администрированию магазина -> https://github.com/ZooMMaX/ZooMMaX-Autodonate-plugin/blob/main/shop.md
+
+
+[Скачать плагин](https://github.com/ZooMMaX/ZooMMaX-Autodonate-plugin/releases "Скачать плагин")
